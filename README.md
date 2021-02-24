@@ -1,5 +1,5 @@
 # opencart-social-login
-opencart 3.x socail login
+opencart 3.x social login
 
 
 1- clone the repo
